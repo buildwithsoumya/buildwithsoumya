@@ -7,7 +7,7 @@ Hi, I'm Soumya. Currently, I'm a **CSE Core** undergraduate student at **VIT Che
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,r,html,css,react,nextjs,tailwind,framer,vite,nodejs,express,fastapi,mysql,mariadb,numpy,pytorch,tensorflow,sklearn,git,github,vercel,linux,chartjs,threejs,opencv,arduino&perline=16" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,r,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,mysql,pytorch,tensorflow,sklearn,git,github,vercel,linux,threejs,opencv,arduino&perline=14" />
   </a>
 </p>
 
