@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code and I'm equally at home solving a tricky DSA problem or shipping a small side project end to end.
+I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code and solving tricky DSA problems or building small side projects end to end.
 
 - 🎓 B.Tech CSE, VIT Chennai (Class of 2029)
 - 🌱 Currently deepening my AI/ML and cloud fundamentals
