@@ -16,14 +16,10 @@
 
 ## About Me
 
-I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code — and I'm equally at home solving a tricky DSA problem or shipping a small side project end to end.
-
-Outside of code, I'm learning German with an eye on working as a software engineer in Germany someday, and I'm part of the **AWS Cloud Club** at VIT Chennai.
+I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code and I'm equally at home solving a tricky DSA problem or shipping a small side project end to end.
 
 - 🎓 B.Tech CSE, VIT Chennai (Class of 2029)
 - 🌱 Currently deepening my AI/ML and cloud fundamentals
-- 🗣️ Learning German (on the way to working in Germany)
-- ⚽ When I'm not coding: football, jogging, guitar, and a good film
 
 ---
 
@@ -51,9 +47,6 @@ Outside of code, I'm learning German with an eye on working as a software engine
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsoumya&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&hide_border=true&border_radius=10" width="95%" />
 </div>
-
-
----
 
 
 <div align="center">
