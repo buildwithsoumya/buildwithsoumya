@@ -52,11 +52,9 @@ Outside of code, I'm learning German with an eye on working as a software engine
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsoumya&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&hide_border=true&border_radius=10" width="95%" />
 </div>
 
-> 💡 **Note:** Stats cards above pull live data on every profile view. If a card looks blank right after you push this, GitHub's image cache just needs a minute to refresh — reload the page and it'll pop back in.
 
 ---
 
-## A Snake Eating My Contributions 🐍
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/buildwithsoumya/buildwithsoumya/output/github-contribution-grid-snake.svg" width="95%" />
