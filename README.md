@@ -50,7 +50,7 @@ I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the interse
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/buildwithsoumya/buildwithsoumya/output/github-contribution-grid-snake.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/buildwithsoumya/buildwithsoumya/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
 ---
