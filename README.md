@@ -1,7 +1,14 @@
 <div align="center">
 
+<!-- Wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There,%20I'm%20Soumya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20@%20VIT%20Chennai%20|%20Full-Stack%20+%20AI/ML&descAlignY=58&descSize=16" width="100%"/>
+
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Soumya+%F0%9F%91%8B;CSE+Undergrad+%40+VIT+Chennai;Full-Stack+%2B+AI%2FML+Enthusiast;Building+one+project+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cool+side+projects+%F0%9F%9A%80;Full-Stack+Developer;AI%2FML+Enthusiast;Learning+German+%F0%9F%87%A9%F0%9F%87%AA;Open+to+Opportunities" alt="Typing SVG" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 </div>
 
@@ -9,13 +16,14 @@
 
 ## About Me
 
-I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code and I'm equally at home solving a tricky DSA problem or shipping a small side project end to end.
+I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the intersection of **full-stack development** and **AI/ML**. I enjoy turning ideas into clean, working code — and I'm equally at home solving a tricky DSA problem or shipping a small side project end to end.
 
-<!-- Outside of code, I'm learning German with an eye on working as a software engineer in Germany someday, and I'm part of the **AWS Cloud Club** at VIT Chennai. -->
+Outside of code, I'm learning German with an eye on working as a software engineer in Germany someday, and I'm part of the **AWS Cloud Club** at VIT Chennai.
 
 - 🎓 B.Tech CSE, VIT Chennai (Class of 2029)
 - 🌱 Currently deepening my AI/ML and cloud fundamentals
-<!-- - 🗣️ Learning German (on the way to working in Germany) -->
+- 🗣️ Learning German (on the way to working in Germany)
+- ⚽ When I'm not coding: football, jogging, guitar, and a good film
 
 ---
 
@@ -31,17 +39,27 @@ I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the interse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildwithsoumya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8A8A&icon_color=8A8A8A&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsoumya&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=8A8A8A&fire=8A8A8A&currStreakLabel=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=buildwithsoumya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FFD700&text_color=c9d1d9&border_radius=10" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=buildwithsoumya&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&border_radius=10" width="48%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsoumya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8A8A&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsoumya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10" width="40%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsoumya&theme=github-compact&bg_color=0d1117&color=8A8A8A&line=8A8A8A&point=c9d1d9&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsoumya&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&hide_border=true&border_radius=10" width="95%" />
+</div>
+
+> 💡 **Note:** Stats cards above pull live data on every profile view. If a card looks blank right after you push this, GitHub's image cache just needs a minute to refresh — reload the page and it'll pop back in.
+
+---
+
+## A Snake Eating My Contributions 🐍
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/buildwithsoumya/buildwithsoumya/output/github-contribution-grid-snake.svg" width="95%" />
 </div>
 
 ---
@@ -50,14 +68,16 @@ I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the interse
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8A8A8A)](https://www.linkedin.com/in/soumya-prakash-jena-a46989372)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8A8A8A)](https://soumya-jena.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8A8A8A)](mailto:dearspj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/soumya-prakash-jena-a46989372)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://soumya-jena.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:dearspj@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=buildwithsoumya&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=buildwithsoumya&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
