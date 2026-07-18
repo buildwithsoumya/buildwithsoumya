@@ -35,12 +35,12 @@ I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the interse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildwithsoumya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FFD700&text_color=c9d1d9&border_radius=10" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=buildwithsoumya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FFD700&text_color=c9d1d9&border_radius=10" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=buildwithsoumya&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&border_radius=10" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsoumya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=buildwithsoumya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10" width="40%" />
 
 </div>
 
