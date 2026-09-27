@@ -26,7 +26,33 @@ I'm a CSE Core undergraduate at **VIT Chennai**, currently exploring the interse
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,r,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,mysql,pytorch,tensorflow,sklearn,git,github,vercel,linux,threejs,opencv,arduino&perline=14" />
+
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge)
+![C](https://img.shields.io/badge/C-white?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-white?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-white?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-white?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge)
+
 </div>
 
 ---
